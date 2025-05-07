@@ -1,0 +1,14 @@
+Estrutura do Projeto:
+- index.html: Página principal com lista de suplementos (whey, creatina, hipercalóricos, vitaminas).
+- login.html: Interface de login (sem funcionalidade real).
+- carrinho.html: Simulação de carrinho de compras.
+- style.css: Estilização visual para todas as páginas.
+
+Funcionalidade:
+- HTML sem backend: apenas visual.
+- CSS para tornar responsivo e agradável.
+- Imagens reais via links externos.
+
+Uso:
+- Abrir os arquivos HTML em navegador para visualizar.
+- Ideal para apresentação de protótipo ou como base para um projeto maior.
